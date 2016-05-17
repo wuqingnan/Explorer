@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Explorer</string>
+    <string name="set_homepage">设置首页</string>
+    <string name="set_homepage_msg">确认要修改默认首页为当前页面吗？</string>
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+
+    <string name="go">前往</string>
+
+    <string name="change_success">修改成功！</string>
+    <string name="change_failed">修改失败！</string>
+
+    <string name="default_homepage">https://m.baidu.com</string>
+</resources>
